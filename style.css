@@ -243,10 +243,11 @@ main {
     margin-left: -10px;
   }
 
+
   .display-mobile {
     display: block;
     position: absolute;
-    margin-top: -27rem;
+    margin-top: -20rem;
     margin-left: 2.5rem;
   }
 
